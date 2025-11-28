@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: rgba(152, 2, 102, 0.342);
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+#second {
+    color: rgb(7, 7, 231);
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#forth {
+    background-color: rgb(130, 226, 130);
+    font-size: 24;
+    font-weight: bold;
+}
